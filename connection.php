@@ -4,7 +4,7 @@
 function connect(){
 $dbhost = "localhost";
 $dbuser = "the name of your database";
-$dbpass = "*your database password";
+$dbpass = "your database password";
 $dbname = "the name of your database";
     
 
