@@ -3,9 +3,9 @@
 
 function connect(){
 $dbhost = "localhost";
-$dbuser = "nasserje_admin10";
-$dbpass = "*rtg176*";
-$dbname = "nasserje_records";
+$dbuser = "the name of your database";
+$dbpass = "*your database password";
+$dbname = "the name of your database";
     
 
 // let's create db connection here
