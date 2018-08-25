@@ -4,4 +4,6 @@ Employees Records App is a multiple-page application which helps to add new, edi
 
 - Use XAMPP or MAMP to test the app before deploying to a server
 
+
+Live Preview Here
 http://records.nasserjeary.com
