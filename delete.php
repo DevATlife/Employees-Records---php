@@ -56,5 +56,4 @@ $conn->query($sql)  or  die("could not send the data".$conn->error);
     
     
 </body>     
-    
 </html>
